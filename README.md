@@ -1,7 +1,5 @@
 # TaskManagementSystem-Project
  Django REST API-based task management system with user authentication, role-based permissions, and admin interface for team collaboration.
-# Task Management System
-A comprehensive Django REST API for managing tasks with role-based permissions, JWT authentication, and real-time task tracking.
 
 # Features
 A.User Authentication & Authorization
